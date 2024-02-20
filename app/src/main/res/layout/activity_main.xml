@@ -28,6 +28,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="20"
+            android:backgroundTint="#D0A9E8"
             android:onClick="click"
             android:text="Go" />
     </LinearLayout>
